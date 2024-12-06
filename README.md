@@ -1,5 +1,3 @@
-## Hello!
-
 <!--
 **NKstats/NKstats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/NKstats" style="display: inline-block; margin-top: -10px; margin-right: 20px;">
-    <img align="center" style="border-radius: 0 !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKstats&layout=compact&theme=buefy&hide_border=true&custom_title=Programming%20Language%20Stats&langs_count=10" alt="Most Used Languages" />
-</a>
+<div style="display: flex; align-items: center; gap: 20px;">
+    <a href="https://github.com/NKstats" style="margin-top: -10px;">
+        <img 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKstats&layout=compact&theme=buefy&hide_border=true&custom_title=Programming%20Language%20Stats&langs_count=10" 
+            alt="Most Used Languages" 
+            style="border-radius: 0;" />
+    </a>
+    <a href="https://github.com/NKstats">
+        <img 
+            src="https://github-readme-stats-sigma-five.vercel.app/api?username=NKstats" 
+            alt="Solomon's GitHub stats" />
+    </a>
+</div>
