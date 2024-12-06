@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/NKstats" style="display: inline-block; margin-top: -10px; margin-right: 20px;">
-    <img align="center" style="border-radius: 0 !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKstats&layout=compact&theme=buefy&hide_border=true&custom_title=Top%20GitHub%20Languages" alt="Most Used Languages" />
+    <img align="center" style="border-radius: 0 !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKstats&layout=compact&theme=buefy&hide_border=true&custom_title=Programming%20Language%20Stats&langs_count=10" alt="Most Used Languages" />
 </a>
