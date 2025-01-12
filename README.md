@@ -4,8 +4,6 @@
 
 [![Linkedin 
 Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/se3008)
-[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white)](https://eshuns.github.io/)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](https://eshuns.github.io/contact/)
 
 
 <div style="display: flex; align-items: center; gap: 20px;">
