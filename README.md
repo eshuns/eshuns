@@ -4,20 +4,20 @@
 
 [![Linkedin 
 Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/se3008)
-[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white)](https://nkstats.github.io/)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](https://nkstats.github.io/contact/)
+[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white)](https://eshuns.github.io/)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](https://eshuns.github.io/contact/)
 
 
 <div style="display: flex; align-items: center; gap: 20px;">
-    <a href="https://github.com/NKstats" style="margin-top: -10px;">
+    <a href="https://github.com/eshuns" style="margin-top: -10px;">
         <img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKstats&layout=compact&theme=react&hide_border=false&custom_title=Programming%20Language%20Stats&langs_count=8" 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshuns&layout=compact&theme=react&hide_border=false&langs_count=8" 
             alt="Most Used Languages" 
             style="border-radius: 0;" />
     </a>
-    <a href="https://github.com/NKstats">
+    <a href="https://github.com/eshuns">
         <img 
-            src="https://github-readme-stats-sigma-five.vercel.app/api?username=NKstats&theme=react" 
+            src="https://github-readme-stats-sigma-five.vercel.app/api?username=eshuns&theme=react" 
             alt="Solomon's GitHub stats" />
     </a>
 </div>
